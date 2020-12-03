@@ -15,3 +15,11 @@ const html =`
 </ul>
 `;
 document.body.innerHTML = html;
+console.log(planet[0]);
+console.log(planet[1]);
+console.log(planet[2]);
+console.log(planet[3]);
+console.log(planet[4]);
+console.log(planet[5]);
+console.log(planet[6]);
+console.log(planet.length);
